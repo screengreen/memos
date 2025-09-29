@@ -66,7 +66,3 @@
 - **Слияние:** RRF 
 - **Реранк:** `CrossEncoder("mmarco-mMiniLMv2-L12-H384-v1")` 
 - **Генерация:** Mistral 
-
-
-
-# memos
